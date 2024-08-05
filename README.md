@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! Eu sou Ricaelle Nascimento 👋
 
-<!--
-**ricaellenascimento/ricaellenascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou graduanda em Ciência da Computação, técnica em Desenvolvimento de Sistemas (em formação) e técnica em Redes de Computadores. Apaixonada por cloud e sempre em busca de novos conhecimentos e desafios.
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo React.js, JAVA, Python e C.
+- 🔭 Utilizo DJANGO, React.js e Spring Boot em meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- **Linguagens**: JAVA, Python, C
+- **Frameworks**: DJANGO, React.js, Spring Boot
+
+## Conecte-se Comigo
+[Instagram](https://www.instagram.com/ricaellenascimento/?next=%2F) | [LinkedIn](https://www.linkedin.com/in/ricaelle-nascimento)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true)
